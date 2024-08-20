@@ -1,0 +1,41 @@
+# Core Libraries
+pandas==1.5.3
+numpy==1.24.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Model Persistence
+joblib==1.2.0
+
+# Web Framework for Deployment
+flask==2.3.2
+
+# Optional: Automated EDA (if you used these)
+pandas-profiling==3.6.3
+sweetviz==2.1.4
+
+# Optional: Jupyter Notebook (if you are using Jupyter notebooks)
+jupyterlab==3.6.5
+
+# pandas: Essential for data manipulation and analysis.
+
+# numpy: Provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these arrays.
+
+# matplotlib: Used for creating static, animated, and interactive visualizations in Python.
+
+# seaborn: Built on top of Matplotlib, it provides a high-level interface for drawing attractive statistical graphics.
+
+# scikit-learn: A robust machine learning library in Python. It includes implementations of various machine learning algorithms, preprocessing tools, and evaluation metrics.
+
+# joblib: Helps in serializing and de-serializing Python objects like trained machine learning models.
+
+# flask: A lightweight WSGI web application framework in Python. It's used here to create a web service for your model deployment.
+
+# pandas-profiling and sweetviz (Optional): Tools for generating interactive EDA reports automatically.
+
+# jupyterlab (Optional): JupyterLab is the next-generation user interface for Project Jupyter, offering all the familiar building blocks of the classic Jupyter Notebook in a flexible and powerful user interface.
